@@ -8,4 +8,4 @@ def fizz_buzz(n):
             print('Buzz')
     else:
         print(n)
-fizz_buzz(17)        
+fizz_buzz(int(input()))
